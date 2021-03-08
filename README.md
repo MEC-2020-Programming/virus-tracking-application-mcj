@@ -15,6 +15,11 @@ As an engineer, we are well-equipped to take on the task of building an applicat
 potentially save lives in unexpecting future epidemics by spotting possible outbreaks and 
 alerting those in increasingly affected areas to take precautions. 
 
+## Demo and UI of the Product
+![](https://github.com/Martin-Mai/virus-tracking-application-mcj/blob/main/Coronavirus_Map.jpg)
+![](https://github.com/Martin-Mai/virus-tracking-application-mcj/blob/main/Eclipse_UI.jpg)
+![](https://github.com/Martin-Mai/virus-tracking-application-mcj/blob/main/Ranking.jpg)
+
 ## Programming Language
 - Java
 - Python
